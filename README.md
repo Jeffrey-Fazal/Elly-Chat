@@ -13,6 +13,7 @@ To install, clone the repository, then run:
 ```sh
 bundle install
 rails db:migrate
+```
 
 This installs all the necessary gems and sets up the database.
 Usage
