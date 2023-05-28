@@ -1,4 +1,3 @@
-
 **Contributing.md**
 
 ```markdown
@@ -55,3 +54,4 @@ By contributing, you agree that your contributions will be licensed under its MI
 
 This document was adapted from the open-source contribution guidelines for [Public Lab](https://publiclab.org/)'s [Super Major Fantastic Spectacular Software Project](https://publiclab.org/wiki/spectral-workbench).
 ``
+```

@@ -9,6 +9,7 @@ Elly Chat is an homage to the pioneering chatbot ELIZA and aims to further push 
 This project uses Ruby version 2.7.7 and Rails version 5.2.8.1. For the database, we're using SQLite for development purposes.
 
 To install, clone the repository, then run:
+
 ```sh
 bundle install
 rails db:migrate
