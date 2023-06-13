@@ -30,3 +30,6 @@ This project is licensed under the MIT License.
 Contact
 
 If you have any questions, feel free to contact Jeffrey Fazal at lugoxyh@protonmail.com.
+
+### Credits
+A big thank you to Joel, CJ and the rest of the GA staff (and my cohort of course :). also ChatGPT (certain sections of the code or text may be copied from their messages.)
